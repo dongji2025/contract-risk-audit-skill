@@ -1,0 +1,11 @@
+# contract-risk-audit dependencies
+# Install: pip install -r requirements.txt
+
+# Core dependencies
+python-docx>=0.8.11
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Optional: PDF text extraction (at least one required)
+pdfplumber>=0.7.0
+PyPDF2>=2.0.0
